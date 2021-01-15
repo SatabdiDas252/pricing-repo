@@ -1,2 +1,2 @@
 # pricing-repo
-Pricing panel!
+Pricing panel!!
